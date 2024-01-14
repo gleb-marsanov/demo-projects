@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3c57bc756d4461ab17f2fa5779f2fd6, type: 3}
+  m_Name: InitialLevel
+  m_EditorClassIdentifier: 
+  InitialWheatCount: 20
+  Villagers:
+  - Type: 0
+    Count: 1
+  - Type: 1
+    Count: 1
+  InitialQuests:
+  - {fileID: 11400000, guid: ba095564a4fbb0d49919f780af2ae1ac, type: 2}
+  - {fileID: 11400000, guid: 1847d026bd735004692f431f60a205f8, type: 2}
+  - {fileID: 11400000, guid: d6c3214bc39997e4aa253edbc54be03b, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 145e367302544b2d81c92eb5a6715a45, type: 3}
+  m_Name: True Warrior
+  m_EditorClassIdentifier: 
+  ID: 1
+  Description: Complete {0} battles
+  TargetAmount: 10
+  QuestCard: {fileID: 8804089248241993079, guid: 3b4cc20d5b177dd4eb22aa458b0e7a53, type: 3}
