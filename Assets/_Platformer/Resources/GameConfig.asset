@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf6d94d28884c4b91db4bf74db16c65, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <InitialScene>k__BackingField: Level_1
+  <HeroPrefab>k__BackingField: {fileID: 4665595880964353060, guid: e2af9b32a1336f840908f3134843fd55, type: 3}
+  <LevelTransferTriggerPrefab>k__BackingField: {fileID: 9183801603110911546, guid: 72921fd324d9f7c49b802faa57132499, type: 3}
+  <Enemies>k__BackingField:
+  - EnemyType: 0
+    Prefab: {fileID: 44671285406976389, guid: 3d322f80c16198c47918cc0bb093bb42, type: 3}
+  - EnemyType: 1
+    Prefab: {fileID: 5019888651505623002, guid: 6c2ffd9948e15bb44bf638441c47081f, type: 3}
