@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_DoorHack/Scenes/Initial.unity
+    guid: 120192c0e4a9d7147864ef130fdb2d95
+  - enabled: 1
+    path: Assets/_DoorHack/Scenes/Gameplay.unity
+    guid: ab1b8478e736974469b1ee06bed3a554
   m_configObjects: {}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5d1f976711459e83473e07a3899d21, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  <LoadingTime>k__BackingField: 3
+  <LoadingCurtain>k__BackingField: {fileID: 287943184532917504, guid: 376bb33734e136f478e1d4c3e991d684, type: 3}
+  <InitialScene>k__BackingField: Initial
+  <GameplayScene>k__BackingField: Gameplay
+  <GameLoopTime>k__BackingField: 60
+  <UiRoot>k__BackingField: {fileID: 1300701409662770794, guid: 2ccf311658bfcf6419088238ec20247a, type: 3}
+  <GameHud>k__BackingField: {fileID: 2044625217020715388, guid: 79cd1bac393fa6045b65f423f3f41f2f, type: 3}
+  <GameOverWindow>k__BackingField: {fileID: 5811027187437517515, guid: f1f007295adc60c4eab4ca3627f22773, type: 3}
+  <VictoryWindow>k__BackingField: {fileID: 9117958306884860992, guid: b73b534d283a4cb44b647c6b8e7fd50b, type: 3}
+  <Tools>k__BackingField:
+  - {fileID: 11400000, guid: eda19374dad55134e91f102ecae4d923, type: 2}
+  - {fileID: 11400000, guid: d9c0e6a0992038e428c4e538213ea9be, type: 2}
+  - {fileID: 11400000, guid: 8350b9a3821dd5745a49de96fbf11a3f, type: 2}
+  <Key>k__BackingField: 000000000100000002000000
+  <DoorPins>k__BackingField: 050000000500000005000000
