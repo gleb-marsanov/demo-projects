@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_WildBall/Scenes/_Bootstrap.unity
+    guid: 0d26212c77c21d046b0606c3e814d6cb
+  - enabled: 1
+    path: Assets/_WildBall/Scenes/Level_1.unity
+    guid: eb14d84eaadab684ab154fb4714730ee
+  - enabled: 1
+    path: Assets/_WildBall/Scenes/Level_2.unity
+    guid: ce2a87f56218b814dab104ddb1990a55
+  - enabled: 1
+    path: Assets/_WildBall/Scenes/Level_3.unity
+    guid: c6f1767c9ed69824a83e7c622d6c1442
+  - enabled: 1
+    path: Assets/_WildBall/Scenes/MainMenu.unity
+    guid: 040e328a6b79e4c4b91f29351bed2345
   m_configObjects: {}
